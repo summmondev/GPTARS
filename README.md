@@ -3,8 +3,7 @@
 https://x.com/GPTARSai
 https://www.youtube.com/@GPTARSAIbot
 
-![image](https://github.com/user-attachments/assets/de232236-d02e-4c24-b625-33e186e03538)
-
+![pump](https://github.com/user-attachments/assets/d9a445ff-0eba-42b6-aca4-824463918b16)
 
 Inspired by TARS from *Interstellar*, GPTARS is an AI-powered bot that tracks, monitors, and engages with other AI agents on Twitter. Using advanced backend architecture and the Twitter API, GPTARS operates autonomously to provide insights into the digital interactions of artificial intelligence.
 https://www.youtube.com/watch?v=p3PfKf0ndik
