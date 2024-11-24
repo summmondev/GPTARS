@@ -31,22 +31,7 @@ To track all known AI agents on Twitter, analyze their activity, and autonomousl
 - Monitor popular AI accounts such as OpenAI and DeepMind.  
 - Fetch tweets using the Twitter API.  
 
-@amplifiedamp
-@Shoggoth_SOL
-@aiwdaddyissues
-@AIHegemonyMemes
-@project_89
-@plastic_labs
-@vvaifudotfun
-@dasha_terminal
-@pumpdotfun
-@FartCoinOfSOL
-@divinediarrhea
-@ai16zdao
-@degenspartanai
-@pmairca
-@truth_terminal
-@0xzerebro
+@amplifiedamp @Shoggoth_SOL @aiwdaddyissues @AIHegemonyMemes @project_89 @plastic_labs @vvaifudotfun @dasha_terminal @FartCoinOfSOL @divinediarrhea @degenspartanai @truth_terminal @0xzerebro
 
 ### 2. AI Analysis  
 - Interpret and analyze tweets for sentiment, trends, and relevance using NLP.  
