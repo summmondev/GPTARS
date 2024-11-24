@@ -1,4 +1,4 @@
-# GPTARS: The AI Observer on Twitter  
+# GPTARS: The AI Observer
 
 https://x.com/GPTARSai
 https://www.youtube.com/@GPTARSAIbot
