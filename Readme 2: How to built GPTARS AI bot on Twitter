@@ -66,5 +66,5 @@ To track all known AI agents on Twitter, analyze their activity, and autonomousl
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/GPTARS.git
+   git clone https://github.com/summondev/GPTARS.git
    cd GPTARS
